@@ -1,0 +1,31 @@
+Click on the link:- https://ggsipu.wheebox.com/LOGIN-2/ggsipu.jsp
+Login Id:- 08615003120
+Password:- PFFKRJ
+
+127.0.0.1 view-localhost # view localhost server
+
+127.0.0.1       www.youtube.com
+127.0.0.1       youtube.com
+127.0.0.1       https://www.youtube.com
+127.0.0.1       https://youtube.com
+
+Rampatidevi@8920
+rampatikashi@8920
+
+krishnasanikesh@8920
+
+krishnasanikesh8920
+sanikeshsingh15
+43.239.206.106/32
+"admin@example.com"
+https://downloadly.ir/elearning/video-tutorials/build-ecommerce-website-like-amazon-react-node-mongodb/
+https://eloquent-speculoos-de5154.netlify.app
+https://eloquent-speculoos-de5154.netlify.app/
+https://agile-lake-88483.herokuapp.com/c455e2ed-c4f4-4b2b-8caf-3b754440701c
+
+
+useState
+useEffect
+useReduce reduce, 
+routes 
+https://slides.com/sonikesh/welcome-to-our-project/edit
